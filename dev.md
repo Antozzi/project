@@ -1,4 +1,5 @@
 # hey
+<<<<<<< HEAD
 <<<<<<< oldfeature
 <<<<<<< oldfeature
 some update
@@ -12,3 +13,7 @@ some update
 =======
 update from git-kraken
 >>>>>>> Update GitKraken
+=======
+some update
+update from git-kraken
+>>>>>>> first-feature
